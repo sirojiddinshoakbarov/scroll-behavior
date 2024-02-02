@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.menu {
+  background-color: #aaa;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.menu a {
+  text-decoration: none;
+  color: yellow;
+  margin: 0px 20px;
+}
+
+#home {
+  height: 100vh;
+  background-color: green;
+  padding: 30px;
+}
+
+#home {
+  height: 100vh;
+  background-color: pink;
+  padding: 30px;
+}
+
+#about {
+  height: 100vh;
+  background-color: yellow;
+  padding: 30px;
+}
+
+#contact {
+  height: 100vh;
+  background-color: aqua;
+  padding: 30px;
+}
+
+#profile {
+  height: 100vh;
+  background-color: aquamarine;
+  padding: 30px;
+}
+
+#footer {
+  height: 100vh;
+  background-color: burlywood;
+  padding: 30px;
+}/*# sourceMappingURL=main.css.map */
